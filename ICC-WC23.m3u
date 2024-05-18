@@ -1,39 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="US820:Willow Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="Shaz WC23",US820:Willow Cricket
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/31569
-#EXTINF:-1 tvg-id="" tvg-name="IN180:WILLOW CRICKET" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="Shaz WC23",IN180:WILLOW CRICKET
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55219
-#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" group-title="Shaz WC23",MY137:ASTRO Cricket
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/71109
-#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK078:Sky Sports Cricket HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.svg" group-title="Shaz Mix",UK078:Sky Sports Cricket HD
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/2879
-#EXTINF:-1 tvg-id="" tvg-name="UK205:SuperSport Cricket FHD (Match Time)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Shaz Mix",UK205:SuperSport Cricket FHD (Match Time)
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/28854
-#EXTINF:-1 tvg-id="" tvg-name="AF135:SUPERSPORT CRICKET" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Shaz Mix",AF135:SUPERSPORT CRICKET
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/60792
-#EXTINF:-1 tvg-id="" tvg-name="IN125:SONY SIX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="Shaz India",IN125:SONY SIX
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55285
-#EXTINF:-1 tvg-id="" tvg-name="IN126:SONY TEN 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Shaz India",IN126:SONY TEN 1
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55284
-#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Shaz India",IN127:SONY TEN 2
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55282
-#EXTINF:-1 tvg-id="" tvg-name="IN128:SONY TEN 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="Shaz India",IN128:SONY TEN 3
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55281
-#EXTINF:-1 tvg-id="" tvg-name="IN142:STAR SPORTS 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="Shaz WC23",IN142:STAR SPORTS 1
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55273
-#EXTINF:-1 tvg-id="" tvg-name="IN143:STAR SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="Shaz WC23",IN143:STAR SPORTS 2
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55272
-#EXTINF:-1 tvg-id="" tvg-name="IN144:STAR SPORTS 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-3-hk-in.png" group-title="Shaz WC23",IN144:STAR SPORTS 3
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55271
-#EXTINF:-1 tvg-id="" tvg-name="IN145:STAR SPORTS SELECT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Shaz WC23",IN145:STAR SPORTS SELECT 1
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55270
-#EXTINF:-1 tvg-id="" tvg-name="IN146:STAR SPORTS SELECT 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Shaz WC23",IN146:STAR SPORTS SELECT 2
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/55269
-#EXTINF:-1 tvg-id="" tvg-name="PK062:PTV SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="Shaz WC23",PK062:PTV SPORTS HD
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/31676
-#EXTINF:-1 tvg-id="" tvg-name="PK004:A SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Shaz WC23",PK004:A SPORTS HD
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/31734
-#EXTINF:-1 tvg-id="" tvg-name="PK033:GEO SUPER" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="Shaz WC23",PK033:GEO SUPER
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/31705
-#EXTINF:-1 tvg-id="" tvg-name="PK073:TEN SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Shaz WC23",PK073:TEN SPORTS
-http://vo01.mohdtv.com:8880/smarttv585cde004ef2/88916669/31665
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_cricket_my.png" group-title="Shaz Astro",Astro Cricket
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236852
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Willow Xtra" tvg-logo=https://www.lyngsat.com/logo/tv/ww/willow_us_extra.png" group-title="Willow Sports",Willow Xtra
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=61364&extension=ts
+
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="Willow Sports",Willow Cricket
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/237503
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="Shaz PAK",PTV SPORTS
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236838
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Shaz PAK",PK: A Sports
+http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236842.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="Shaz India",STAR SPORTS 1 Hindi
+http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/237046.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="Shaz India",Star Sports 1 HD
+http://xtv.ooo:8080/493121299/992121394/167575
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="Shaz India",Star Sports 2 HD
+https://public.rkmiptv.fun/dhoom.php?id=7610
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-3-hk-in.png" group-title="Shaz India",Star Sports 3 SD
+https://public.rkmiptv.fun/dhoom.php?id=10959
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Shaz India",STAR SPORTS SELECT 1
+https://public.rkmiptv.fun/dhoom.php?id=10662
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Shaz India",STAR SPORTS SELECT 2
+http://xtv.ooo:8080/493121299/992121394/167579
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Super Sports",Super Sports Cricket
+http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/236854.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.svg" group-title="Sky Sports",Sky Sports Cricket
+https://public.rkmiptv.fun/dhoom.php?id=2310
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="Sky Sports",Sky Sports
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97133&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="MIX Sports",FOX Sports
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236869
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png" group-title="MIX Sports",FOX Cricket
+http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/236869.m3u8
+
+
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportESPN HD
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97145&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 1 HD
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97146&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport1
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97147&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 2 HD
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97148&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 3 HD
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97150&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport3
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97151&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 1
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97152&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 2
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97153&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 3
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97154&extension=ts
+#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 4
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97155&extension=ts
+
+#EXTINF:-1,CRI: WILLOW CRICKET HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/237503
+#EXTINF:-1,AU: FOX SPORTS 501 #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236869
+#EXTINF:-1,CRI: Astro Cricket HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236852
+#EXTINF:-1,CRI: SUPERSPORTS CRICKET HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236854
+#EXTINF:-1,CRI: A SPORTS ARY HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236842
+#EXTINF:-1,CRI: GEO SUPER HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236840
+#EXTINF:-1,CRI: PTV SPORTS HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236838
+#EXTINF:-1,CRI: JIO CRICKET HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236845
+#EXTINF:-1,CRI: TEN CRICKET HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/236844
+
+#EXTINF:-1,SONY Ten 2 HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/237213
+
+#EXTINF:-1,CRI: STAR SPORTS 2 HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/237044
+#EXTINF:-1,CRI: STAR SPORTS HINDI HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/237046
+
+#EXTINF:-1,CRI: STAR SPORTS TAMIL 1 HD #1
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/277335
+
+#EXTINF:-1,CRI: SONY TEN 1 HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/277343
+#EXTINF:-1,CRI: SONY Ten 2 HD.
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/277344
+#EXTINF:-1,CRI: SONY TEN 3 HD
+http://mixbix.xyz:8080/3CMxWqrPS9wp/8f9CymgKYLDG/277345
