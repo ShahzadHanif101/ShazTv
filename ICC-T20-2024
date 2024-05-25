@@ -1,62 +1,66 @@
 #EXTM3U
-#EXTINF:-1 group-title="US| USA",Willow Cricket HD
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-name="Willow Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="Shaz Sports",Willow Cricket
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=61364&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Cricket
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cricket" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Cricket
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97133&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| SKY SPORTS MAIN EVENT HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky MAIN EVENT HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97135&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Main Event
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Main Event
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97136&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",DSTV| SUPERSPORT CRICKET
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Shaz Sports",Super Cricket
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=457068&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",DSTV| SUPERSPORT ACTION
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="Shaz Sports",Super ACTION
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=457066&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 2 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97597&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 3 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97598&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 4 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97599&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 5 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97600&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 7 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97602&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 8 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97603&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 10 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97605&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 11 HD
-http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97606&extension=ts
-#EXTINF:-1 group-title="AF| AFRICAINE",AF| SuperSport 12 HD
-#EXTINF:-1 group-title="UK| ENGLAND",UK| EUROSPORT 1
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="UK Sports",EUROSPORT 1
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97120&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| EUROSPORT 2
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="UK Sports",EUROSPORT 2
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97121&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Action HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Action HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97126&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Action
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Action
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97127&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Mix HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Mix HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97128&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| Sky Sports Mix
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="UK Sports",Sky Mix
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97129&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportESPN HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK Sports",TNT/BT ESPN HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97145&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UK Sports",TNT/BT Sport 1 HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97146&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport1
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UK Sports",TNT/BT Sport 1
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97147&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="UK Sports",TNT/BT Sport 2 HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97148&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="UK Sports",TNT/BT Sport 3 HD
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97150&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT Sport3
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="UK Sports",TNT/BT Sport3
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97151&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 1
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK Sports",TNT/BT Extra 1
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97152&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK Sports",TNT/BT Extra 2
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97153&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 3
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK Sports",TNT/BT Extra 3
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97154&extension=ts
-#EXTINF:-1 group-title="UK| ENGLAND",UK| BT SportExtra 4
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="UK Sports",TNT/BT Extra 4
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=97155&extension=ts
