@@ -24,7 +24,7 @@ http://xtv.ooo:8080/5517278/5517188/238475
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="UK Sports",EUROSPORT 1
 http://xtv.ooo:8080/5517278/5517188/167585
 
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="hhttps://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png" group-title="CRICKET",AU: FOX CRICKET 501
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png" group-title="CRICKET",AU: FOX CRICKET 501
 http://xtv.ooo:8080/5517278/5517188/167593
 
 #EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="CRICKET",BS | beIN SPORT CRICKET
@@ -60,8 +60,6 @@ http://xtv.ooo:8080/5517278/5517188/167595
 http://xtv.ooo:8080/5517278/5517188/167587
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/5517278/5517188/167573
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
-http://xtv.ooo:8080/5517278/5517188/167574
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="CRICKET",IN | Star Sports 1 HD
 http://xtv.ooo:8080/5517278/5517188/167575
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET",IN | Star Sports 2 HD
