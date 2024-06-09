@@ -19,3 +19,16 @@ http://145.239.5.177:8080/567/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="Shaz Sports",SUPER GRANDSTAND
 http://145.239.5.177:8080/567/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="Shaz PAK",PTV SPORTS
+http://121.91.61.106:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Shaz PAK",TEN SPORTS
+http://121.91.61.106:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Shaz PAK",PK: A Sports
+http://121.91.61.106:8000/play/a02u/index.m3u8
+
+
+
+
