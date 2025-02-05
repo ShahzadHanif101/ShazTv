@@ -1,88 +1,199 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="CRICKET ➾ VIP",IN | STAR SPORTS 1 FHD
-http://filex.tv:8080/Home329/Sohailhome/247159
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET ➾ VIP",IN | STAR SPORTS 2 FHD
-http://filex.tv:8080/Home329/Sohailhome/247160
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="CRICKET ➾ VIP",IN | STAR SPORTS SELECT 1 FHD
-http://filex.tv:8080/Home329/Sohailhome/247161
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="CRICKET ➾ VIP",IN | STAR SPORTS SELECT 2 FHD
-http://filex.tv:8080/Home329/Sohailhome/247162
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="CRICKET ➾ VIP",PTV SPORTS FHD
-http://filex.tv:8080/Home329/Sohailhome/247170
-#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="CRICKET ➾ VIP",TEN SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/247171
-#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="CRICKET ➾ VIP",A SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/247168
-
-#EXTINF:-1 tvg-id="" tvg-name="GEO SUPER HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="CRICKET ➾ VIP",GEO SUPER HD
-http://filex.tv:8080/Home329/Sohailhome/247167
-
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY SPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="CRICKET ➾ VIP",IN | SONY SPORTS 1 FHD
-http://filex.tv:8080/Home329/Sohailhome/247155
-#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="CRICKET ➾ VIP",SONY SPORTS 2 FHD
-http://filex.tv:8080/Home329/Sohailhome/247156
-#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="CRICKET ➾ VIP",SONY SPORTS 3 FHD
-http://filex.tv:8080/Home329/Sohailhome/247157
-#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="CRICKET ➾ VIP",SONY SPORTS 5 FHD
-http://filex.tv:8080/Home329/Sohailhome/247158
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" group-title="CRICKET ➾ VIP",SPORTS 18 HD
-http://filex.tv:8080/Home329/Sohailhome/247163
-#EXTINF:-1 tvg-id="" tvg-name="FAST SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="CRICKET ➾ VIP",FAST SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/247169
-
-#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS CRICKET FHD" tvg-logo="http://webotv.asia:80/images/4218471aa13f88189539f8da6ad18f4d.png" group-title="CRICKET ➾",NZ | SKY SPORTS CRICKET FHD
-http://filex.tv:8080/Home329/Sohailhome/250199
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="CRICKET ➾",PK | ARY SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/190767
-#EXTINF:-1 tvg-id="" tvg-name="AF | SUPER SPORTS CRICKET " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="CRICKET ➾",AF | SUPER SPORTS CRICKET 
-http://filex.tv:8080/Home329/Sohailhome/53044
-#EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" group-title="CRICKET ➾",IN | 18 SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/52077
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="CRICKET ➾",PK | GEO SUPER HD
-http://filex.tv:8080/Home329/Sohailhome/52080
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="CRICKET ➾",IN | SONY TEN 1 HD
-http://filex.tv:8080/Home329/Sohailhome/52083
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="CRICKET ➾",IN | SONY TEN 2 HD
-http://filex.tv:8080/Home329/Sohailhome/52085
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="CRICKET ➾",IN | SONY TEN 3 HD
-http://filex.tv:8080/Home329/Sohailhome/52086
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="CRICKET ➾",IN | STAR SPORTS 1 HD
-http://filex.tv:8080/Home329/Sohailhome/52094
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET ➾",IN | STAR SPORTS 2 HD
-http://filex.tv:8080/Home329/Sohailhome/52096
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 1 HD
-http://filex.tv:8080/Home329/Sohailhome/52098
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 2 HD
-http://filex.tv:8080/Home329/Sohailhome/52100
-#EXTINF:-1 tvg-id="" tvg-name="IN | TEN SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="CRICKET ➾",IN | TEN SPORTS HD
-http://filex.tv:8080/Home329/Sohailhome/52106
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS SD." tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="CRICKET ➾",PK | ARY SPORTS SD.
-http://filex.tv:8080/Home329/Sohailhome/62393
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET ➾",IN | STAR SPORTS 1 HINDI FHD 
-http://filex.tv:8080/Home329/Sohailhome/90342
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="CRICKET ➾",PK | PTV SPORTS SD
-http://filex.tv:8080/Home329/Sohailhome/250211
-#EXTINF:-1 tvg-id="" tvg-name="IN | FAST SPORTS " tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="CRICKET ➾",IN | FAST SPORTS 
-http://filex.tv:8080/Home329/Sohailhome/277207
-#EXTINF:-1 tvg-id="" tvg-name="IN | EURO SPORTS" tvg-logo="https://filex.vip:443/images/_HmHo_P7L3IdYO67j5S70HslD6BC0k2Qu3MvF_Z5NnMpGtOkRH9y6nHeUNQPJ4hBYp97V9EwNXSBxlnUbmxOiw.png" group-title="CRICKET ➾",IN | EURO SPORTS
-http://filex.tv:8080/Home329/Sohailhome/297577
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 4 HD" tvg-logo="" group-title="CRICKET ➾",IN | SONY TEN 4 HD
-http://filex.tv:8080/Home329/Sohailhome/453434
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="CRICKET ➾",IN | SONY TEN 5 HD
-http://filex.tv:8080/Home329/Sohailhome/453435
-#EXTINF:-1 tvg-id="" tvg-name="AU | FOX CRICKET 501" tvg-logo="" group-title="CRICKET ➾",AU | FOX CRICKET 501
-http://filex.tv:8080/Home329/Sohailhome/247166
-#EXTINF:-1 tvg-id="" tvg-name="IN | ASTRO CRICKET" tvg-logo="" group-title="CRICKET ➾",IN | ASTRO CRICKET
-http://filex.tv:8080/Home329/Sohailhome/451415
-#EXTINF:-1 tvg-id="" tvg-name="BD | T SPORTS" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",BD | T SPORTS
-http://filex.tv:8080/Home329/Sohailhome/111409
-#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW CRICKET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="CRICKET ➾",IN | WILLOW CRICKET HD
-http://filex.tv:8080/Home329/Sohailhome/52109
-#EXTINF:-1 tvg-id="" tvg-name="IN | DD SPORTS" tvg-logo="" group-title="CRICKET ➾",IN | DD SPORTS
-http://filex.tv:8080/Home329/Sohailhome/479719
-
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="South Africa ➾ Sports",ZA: SuperSport Cricket
-http://filex.tv:8080/Home329/Sohailhome/290337
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia",MY: Astro Cricket
-http://filex.tv:8080/Home329/Sohailhome/303500
+#EXTINF:-1,PK: 92 NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/213
+#EXTINF:-1,PK: 92 NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53404
+#EXTINF:-1,PK: DUNYA NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/211
+#EXTINF:-1,PK: DUNYA NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53402
+#EXTINF:-1,PK: ARY NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/208
+#EXTINF:-1,PK: ARY NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53399
+#EXTINF:-1,PK: GEO NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/210
+#EXTINF:-1,PK: 24 NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/219
+#EXTINF:-1,PK: SAMAA TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/218
+#EXTINF:-1,PK: EXPRESS NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/212
+#EXTINF:-1,PK: EXPRESS NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53403
+#EXTINF:-1,PK: BOL NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/207
+#EXTINF:-1,PK: GNN NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/214
+#EXTINF:-1,PK: HUM NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/215
+#EXTINF:-1,PK: AAJ NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/18971
+#EXTINF:-1,PK: ABN NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53400
+#EXTINF:-1,PK: SUNO TV HD
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53401
+#EXTINF:-1,PK: PUBLIC NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53405
+#EXTINF:-1,PK: GTV Network
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53406
+#EXTINF:-1,PK: NEWS ONE
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53408
+#EXTINF:-1,PK: NEO NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53409
+#EXTINF:-1,PK: DAWN NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53410
+#EXTINF:-1,PK: LAHORE NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53411
+#EXTINF:-1,PK: LAHORE RANG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53412
+#EXTINF:-1,PK: CAPITAL NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53413
+#EXTINF:-1,PK: ABB TAKK NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53414
+#EXTINF:-1,PK: CITY 41 NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53415
+#EXTINF:-1,PK: CITY 42 NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53416
+#EXTINF:-1,PK: Rohi TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53417
+#EXTINF:-1,PK: PTV NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53418
+#EXTINF:-1,PK: GEO TEZZ
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53419
+#EXTINF:-1,PK: CHANNEL 5
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53421
+#EXTINF:-1,PK: DIN NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53422
+#EXTINF:-1,PK: KHYBER NEWS
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53423
+#EXTINF:-1,PK: SUCH TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/53424
+#EXTINF:-1,A TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4537
+#EXTINF:-1,Afghan Javan AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4538
+#EXTINF:-1,AMC HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4543
+#EXTINF:-1,Arezu TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4544
+#EXTINF:-1,Ariana International AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4547
+#EXTINF:-1,Ariana World AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4551
+#EXTINF:-1,ATN TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4554
+#EXTINF:-1,ATN USA AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4555
+#EXTINF:-1,Batur AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4557
+#EXTINF:-1,Pamir FHD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4561
+#EXTINF:-1,International Food TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4568
+#EXTINF:-1,Noor TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4569
+#EXTINF:-1,Payam-e-Afghan AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4572
+#EXTINF:-1,Tuti TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4580
+#EXTINF:-1,Watan e Maa TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4582
+#EXTINF:-1,Zarin TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4584
+#EXTINF:-1,ATV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4587
+#EXTINF:-1,TOLO TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/4588
+#EXTINF:-1,AFG: ATN International
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51645
+#EXTINF:-1,AFG: ATN National 
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51646
+#EXTINF:-1,AFG: ATN News
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51647
+#EXTINF:-1,AFG: ATN US 
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51648
+#EXTINF:-1,AFG: Bahar TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51649
+#EXTINF:-1,AFG: Dunya Naw TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51651
+#EXTINF:-1,AFG: Eslah TV 
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51652
+#EXTINF:-1,AFG: Iman TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51655
+#EXTINF:-1,AFG: Kayhan TV
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51656
+#EXTINF:-1,AFG: RTA
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51659
+#EXTINF:-1,AFG: RTA Sport
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51660
+#EXTINF:-1,AFG: Sharq Radio TV 
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51662
+#EXTINF:-1,AFG: Smithsonian Channel
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51663
+#EXTINF:-1,AFG: WATAN-E-MAA
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/51668
+#EXTINF:-1,1 TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126083
+#EXTINF:-1,Afghan international AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126084
+#EXTINF:-1,AFGHAN THEATER AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126085
+#EXTINF:-1,AFGHAN TIME FHD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126086
+#EXTINF:-1,Afghan Time HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126087
+#EXTINF:-1,AFGHANISTAN TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126088
+#EXTINF:-1,Arezu TV HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126089
+#EXTINF:-1,Aria Music AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126090
+#EXTINF:-1,Ariana National AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126091
+#EXTINF:-1,Ariana News AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126092
+#EXTINF:-1,Ariana USA HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126093
+#EXTINF:-1,ATN NEWS AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126094
+#EXTINF:-1,Bahar TV HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126095
+#EXTINF:-1,HAZARA WORLD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126096
+#EXTINF:-1,Hewad TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126097
+#EXTINF:-1,Iman TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126098
+#EXTINF:-1,Kayhan TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126099
+#EXTINF:-1,Kayhan TV HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126100
+#EXTINF:-1,Khurshid TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126101
+#EXTINF:-1,Lemar TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126102
+#EXTINF:-1,Lemar TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126103
+#EXTINF:-1,Lemar TV HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126104
+#EXTINF:-1,Maiwand TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126105
+#EXTINF:-1,PAMIR TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126106
+#EXTINF:-1,Pashto 1 AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126107
+#EXTINF:-1,Rah e Farda TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126108
+#EXTINF:-1,RTA TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126109
+#EXTINF:-1,SAMA TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126110
+#EXTINF:-1,Shamshad AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126111
+#EXTINF:-1,Tamadon TV AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126112
+#EXTINF:-1,Tolo News HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126113
+#EXTINF:-1,Tolo TV HD AFG
+http://megaott.live:8080/HelderCrash/p24BhFdx2exB/126114
