@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,US Disney Channel East (A)
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png", Channel 1
 #EXTGRP:KIDS ZONE
 http://xxip9.top:8080/Smiley/Smiley/2206
 #EXTINF:0,US: Disney XD
