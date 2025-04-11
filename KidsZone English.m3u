@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Channel 1
-#EXTIMG: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png
+#EXTINF:-1, Disney 
 #EXTGRP:KIDS ZONE
 http://xxip9.top:8080/Smiley/Smiley/2206
 #EXTINF:0,US: Disney XD
