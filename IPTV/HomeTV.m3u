@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0,PK | ARY DIGITAL
 #EXTGRP:PAK ENTERTAINMENT
+#TVG-LOGO"https://github.com/ShahzadHanif101/images/blob/main/ShazIPTV.png"
 http://xtvplayer.top:8080/Muzammil1978/03322434800/221337
 #EXTINF:0,PK | ARY DIGITAL HD
 #EXTGRP:PAK ENTERTAINMENT
